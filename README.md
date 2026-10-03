@@ -11,9 +11,10 @@ This repository contains my projects, learning resources, experiments, and progr
 - Web Development
 
 ## Projects
-
-Uwork
-iRecruit
+# UWORK — Business Intelligence & Forecasting Platform
+Enterprise SaaS Platform for Data Cleaning, Metric Intelligence, Multi-Model Time-Series Forecasting, and Decision Centers.
+# IRecruit — AI Resume Intelligence & Job Alignment Engine
+IRecruit is an enterprise-grade, portfolio-quality career intelligence platform and semantic alignment engine.
 
 ## Learning
 
