@@ -12,7 +12,8 @@ This repository contains my projects, learning resources, experiments, and progr
 
 ## Projects
 
-Coming soon...
+Uwork
+iRecruit
 
 ## Learning
 
